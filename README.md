@@ -1,4 +1,4 @@
-# Annotation Demo Project
+# Java Annotations
 This is a Java Spring Boot application that demonstrates the main Java annotations using:
 
 - `@SpringBootApplication`
